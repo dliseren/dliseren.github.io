@@ -14,7 +14,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 Publications
 ------
 
-* S. Jeong, **R. Hou**, J. P. Lynch, H. Sohn and K. H. Law, "A Scalable Cloud-based Cyberinfrastructure Platform for Bridge Monitoring", (Submitted).
+<!-- * S. Jeong, **R. Hou**, J. P. Lynch, H. Sohn and K. H. Law, "A Scalable Cloud-based Cyberinfrastructure Platform for Bridge Monitoring", (Submitted).
 
 * **R. Hou**, S. Jeong, K. H. Law and J. P. Lynch, "Camera-based Triggering of Bridge Structure Health Monitoring Systems using a Cyber-Physical System Framework", International Workshop on Structural Health Monitoring 2017 (IWSHM 2017). Stanford University, Stanford, CA, USA, September 12-14, 2017.
 
@@ -35,5 +35,5 @@ Publications
 * S. Jeong, Y. Zhang, **R. Hou**, J. P. Lynch, H. Sohn and K. H. Law, "A Cloud based Information Repository for Bridge Monitoring Applications", Proceedings of the SPIE Smart Structures/NDE Conference. Las Vegas, NV, USA, March 20-24, 2016.
 
 * **R. Hou**, Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch, "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors", In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.
-
+ -->
 
