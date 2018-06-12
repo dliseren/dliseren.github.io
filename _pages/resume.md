@@ -11,6 +11,8 @@ redirect_from:
 
 Education
 ------
+* Under Construction
+
 <!-- * Ph.D. Candidate, Civil Engineering, 2015 - Present
   * University of Michigan, Ann Arbor, MI
 * M.S.E, Robotics, 2016 - Present
