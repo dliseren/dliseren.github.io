@@ -36,5 +36,6 @@ Publications
 * S. Jeong, Y. Zhang, **R. Hou**, J. P. Lynch, H. Sohn and K. H. Law, "A Cloud based Information Repository for Bridge Monitoring Applications", Proceedings of the SPIE Smart Structures/NDE Conference. Las Vegas, NV, USA, March 20-24, 2016.
 
 * **R. Hou**, Y. Zhang, S. O’Connor, Y. Hong, and J. P. Lynch, "Monitoring and Identification of Vehicle-Bridge Interaction using Mobile Truck-based Wireless Sensors", In Proceedings of 11th International Workshop on Advanced Smart Materials and Smart Structures Technology, pp. 1-2. 2015.
- -->
 
+
+ -->
