@@ -10,6 +10,11 @@ redirect_from:
 
 ## About Me
 
+
+* Under Construction
+
+
+
 <!-- I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa. 
 
 My research focuses on understanding and modeling occupants’ energy use behaviors in buildings, and predicting thermal comfort using heterogeneous data sources and different modeling techniques. To this end, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation.  -->
