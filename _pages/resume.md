@@ -11,16 +11,15 @@ redirect_from:
 
 Education
 ------
-* Under Construction
 
-<!-- * Ph.D. Candidate, Civil Engineering, 2015 - Present
+* Ph.D. Candidate, Civil Engineering, 2015 - Present
   * University of Michigan, Ann Arbor, MI
-* M.S.E, Robotics, 2016 - Present
+* M.S.E, Robotics, 2017 - Present
   * University of Michigan, Ann Arbor, MI
 * M.S.E, Construction Engineering & Management, 2014 - 2015
   * University of Michigan, Ann Arbor, MI
 * B.S., Civil Engineering, 2010 - 2014
-  * Tongji University, Shanghai, China (GPA: 91/100) -->
+  * Huazhong University of Science and Technology, China
   
 
 Employment Experience

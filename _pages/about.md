@@ -15,18 +15,18 @@ redirect_from:
 
 
 
-<!-- I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa. 
+I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa. 
 
-My research focuses on understanding and modeling occupants’ energy use behaviors in buildings, and predicting thermal comfort using heterogeneous data sources and different modeling techniques. To this end, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation.  -->
+My research focuses on understanding and modeling occupants’ energy use behaviors in buildings, and predicting thermal comfort using heterogeneous data sources and different modeling techniques. To this end, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation. 
 
 
 <!-- Working in the Materials Research Department, my responsibility  is to fulfill the requirement of materials informatics research in the group. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
 
 <!-- A side quest of mine for this semester is to complete the [deep learning courses](https://www.deeplearning.ai/) offered by Andrew Ng on Coursera. Check it out if you are interested. Welcome to discuss! -->
 
-## Goals for the Near Future
+<!-- ## Goals for the Near Future
 
-* Under Construction
+* Under Construction -->
 
 
 <!-- Like many other Jekyll-based GitHub Pages templates, academicpages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
