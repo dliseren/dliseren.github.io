@@ -20,17 +20,9 @@ Education
 Teaching Experience
 ------
 
-* Graduate Student Instructor (GSI) - **CEE 431 Construction Contracting**, Sep. 2018 – Dec. 2018.
-  * Leading lab sessions and assisting professor with the preparation of course materials.
-  * Topics covered: project organization, cost estimation, progress monitoring, arbitration, project risk prevention.
-
-* GSI - **CEE 265 Sustainable Engineering Principles**, Jan. 2018 – Apr. 2018.
-  * Leading practice classes, providing homework help and office hours, assisting professor with the preparation of exam papers and homework assignments.
-  * Topics covered: life cycle assessment, air and water pollution models, resource consumption models, sustainability economics.
-
-* GSI – **CEE 265 Sustainable Engineering Principles**, Jan. 2017 – Apr. 2017.
-  * Student feedback: received 100% satisfaction from feedback of nine surveyed students.
-
+* Graduate Student Instructor - **CEE 431 Construction Contracting**, Sep. 2018 – Dec. 2018.
+* Graduate Student Instructor - **CEE 265 Sustainable Engineering Principles**, Jan. 2018 – Apr. 2018.
+* Graduate Student Instructor – **CEE 265 Sustainable Engineering Principles**, Jan. 2017 – Apr. 2017.
 * Teaching Assistant - **CEE 531 Construction Cost Engineering**, Sep. 2015 – Dec. 2015.
 
             
