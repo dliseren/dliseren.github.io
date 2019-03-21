@@ -10,11 +10,11 @@ redirect_from:
 
 ## About Me
 
-I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa.
+I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a Master's degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa.
 
 My research critically explores the interconnections between sustainable design and operation of buildings and the health and wellness impacts on their occupants. To harness the built environment as a medium to support sustainability and human health, well-being, productivity, and engagement, my research specifically focuses on two human-building interaction research thrusts: 
 
-1) Healthy Built Environments. In this thrust, I am interested in assessing the impacts of building systems and environments on human well-being, with an emphasis on thermal comfort.
+1) *Healthy Built Environments*. In this thrust, I am interested in assessing the impacts of building systems and environments on human well-being, with an emphasis on thermal comfort. My work has been publised in [The Conversation](https://theconversation.com/offices-are-too-hot-or-too-cold-is-there-a-better-way-to-control-room-temperature-108982)
 
 2) Occupant Energy Use Behaviors and Conservation. My second research thrust aims to understand the significant influence of human cognitive and behavioral processes and the resulting behaviors on building energy consumption.
 
