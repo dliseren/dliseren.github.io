@@ -11,7 +11,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 {% include base_path %}
 
-Journal Publications
+##Journal Publications
 
 * **Li, D.**, Xu, X., Chen, C. F., & Menassa, C. (2019). [Understanding energy-saving behaviors in the American workplace: A unified theory of motivation, opportunity, and ability](https://www.sciencedirect.com/science/article/pii/S2214629618306297). *Energy Research & Social Science*, 51, 198-209.
 * **Li, D.**, Menassa, C. C., and Kamat, V. R. (2018). “Non-intrusive interpretation of human thermal comfort through analysis of facial infrared thermography.” *Energy and Buildings*, 176, 246-261. [Download](https://www.sciencedirect.com/science/article/pii/S0378778818309629)
