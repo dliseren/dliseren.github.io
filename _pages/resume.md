@@ -20,34 +20,20 @@ Education
 Teaching Experience
 ------
 
-* Graduate Student Instructor – to Professor Carol C. Menassa in: CEE 431 Construction Contracting (21 students), September 2018 – December 2018.
+* Graduate Student Instructor (GSI) - **CEE 431 Construction Contracting** (21 students), Sep. 2018 – Dec. 2018.
   * Leading lab sessions and assisting professor with the preparation of course materials.
   * Topics covered: project organization, cost estimation, progress monitoring, arbitration, project risk prevention.
 
-* Graduate Student Instructor – to Professor Carol C. Menassa in: CEE 265 Sustainable Engineering Principles (120 students), January 2018 – April 2018.
+* GSI - **CEE 265 Sustainable Engineering Principles** (120 students), Jan. 2018 – Apr. 2018.
   * Leading practice classes, providing homework help and office hours, assisting professor with the preparation of exam papers and homework assignments.
   * Topics covered: life cycle assessment, air and water pollution models, resource consumption models, sustainability economics.
-  
-* Graduate Student Instructor – to Professor Carol C. Menassa in: CEE 265 Sustainable Engineering Principles (120 students), January 2017 – April 2017.
+
+* GSI – **CEE 265 Sustainable Engineering Principles** (120 students), Jan. 2017 – Apr. 2017.
   * Student feedback: received 100% satisfaction from feedback of nine surveyed students.
 
-* Teaching Assistant – to Professor Vineet R. Kamat in: CEE 531 Construction Cost Engineering (18 students), September 2015 – December 2015.
+* Teaching Assistant - **CEE 531 Construction Cost Engineering** (18 students), Sep. 2015 – Dec. 2015.
 
-
-<!-- * Graduate Student Research Assistant, Jan.2015 - Present
-  * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
-  * Supervisor: Prof. Jerome P. Lynch
-
-* Material Informatics Intern, Sep.2017 - Dec.2017
-  * Toyota Research Institute, Ann Arbor, MI
-  * Supervisor: Dr. Debasish Banerjee & Dr. Chen Ling
-  
-* Building Information Modeling Intern, Feb.2014 - Jun.2014
-  * Shanghai Construction Group, Shanghai, China
- * Supervisor: Yunchao Liu -->
             
-
-
 Skills
 ------
 <!-- * Programming
