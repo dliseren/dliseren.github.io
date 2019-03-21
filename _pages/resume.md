@@ -12,10 +12,10 @@ redirect_from:
 Education
 ------
 
-* Ph.D. Candidate, Civil Engineering, 2016 - Present, University of Michigan, Ann Arbor, MI
-* M.S.E, Robotics, 2017 - Present, University of Michigan, Ann Arbor, MI
-* M.S.E, Construction Engineering & Management, 2014 - 2015, University of Michigan, Ann Arbor, MI
-* B.S., Civil Engineering, 2010 - 2014, Huazhong University of Science and Technology, China
+* Ph.D. Candidate, Civil Engineering, 2016 - Present, University of Michigan, Ann Arbor, MI.
+* M.S., Robotics, 2017 - Present, University of Michigan, Ann Arbor, MI.
+* M.S., Construction Engineering & Management, 2014 - 2015, University of Michigan, Ann Arbor, MI.
+* B.S., Civil Engineering, 2010 - 2014, Huazhong University of Science and Technology, China.
   
 Teaching Experience
 ------
@@ -26,8 +26,8 @@ Teaching Experience
 * Teaching Assistant - **CEE 531 Construction Cost Engineering**, Sep. 2015 – Dec. 2015.
 
             
-Skills
-------
+<!-- Skills
+------ -->
 <!-- * Programming
   * Python, C++, MATLAB, C, Java, Javascript, SQL, NoSQL(MongoDB, Cassandra), Linux
 * Data Analysis
@@ -38,8 +38,8 @@ Skills
   * Adobe Creative Suite (Photoshop, Illustrator), Microsoft Office Suite
                                                                             -->          
 
-Selected Coursework
-------
+<!-- Selected Coursework
+------ -->
 <!-- * EECS 586: Algorithms
 * EECS 583: Advanced Compiler
 * EECS 560: Linear System Theory
@@ -56,23 +56,23 @@ Selected Coursework
 Honors & Awards
 ------
 **At the University of Michigan**:
-* Rackham Predoctoral Fellowship, 2019
-* Science Communication Award for Advanced Research Competition, 2018
-* Rackham Conference Travel Grant, 2017
-* John L. Tishman Fellowship and Rackham Block Grant, 2016
-* Tishman Master’s Fellowship, 2015
-* Travel Grant for the NetPoint and GPM Conference, 2015
+* Rackham Predoctoral Fellowship, 2019.
+* Science Communication Award for Advanced Research Competition, 2018.
+* Rackham Conference Travel Grant, 2017.
+* John L. Tishman Fellowship and Rackham Block Grant, 2016.
+* Tishman Master’s Fellowship, 2015.
+* Travel Grant for the NetPoint and GPM Conference, 2015.
 
 
 **At the Huazhong University of Science and Technology, China**:
-* Outstanding Undergraduate Student, 2014
-* Honor and Scholarship for Excellent Student Leader, 2013
-* Outstanding Individual Scholarship, 2012, 2013
+* Outstanding Undergraduate Student, 2014.
+* Honor and Scholarship for Excellent Student Leader, 2013.
+* Outstanding Individual Scholarship, 2012, 2013.
 
 
 
-Service & Leadership
-------
+<!-- Service & Leadership
+------ -->
 <!-- * Vice President of the Volunteer Service Department at Tongji University, Oct.2010 - Jun.2012  
 * Leader of the Tongji Education Aid Activity (Raised over 50,000CNY to subsidize 204 pupils), Sep.2011 - Nov.2011                           
 * Volunteer Coordinator of the 14th FINA World Championships Shanghai 2011 Organizing Committee, Jul.2011  -->   
