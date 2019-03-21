@@ -13,7 +13,7 @@ You can also find my articles on <u><a href="{{author.googlescholar}}">my Google
 
 Journal Publications
 -----
-* **Li, D.**, Xu, X., Chen, C. F., and Menassa, C. (2019). [Understanding energy-saving behaviors in the American workplace: A unified theory of motivation, opportunity, and ability]. *Energy Research & Social Science*, 51, 198-209. [<img src="../images/pdf_icon.jpg" width="30" height="30">](https://www.sciencedirect.com/science/article/pii/S2214629618306297)
+* **Li, D.**, Xu, X., Chen, C. F., and Menassa, C. (2019). [Understanding energy-saving behaviors in the American workplace: A unified theory of motivation, opportunity, and ability]. *Energy Research & Social Science*, 51, 198-209. [<img src="../images/pdf_icon.png" width="30" height="30">](https://www.sciencedirect.com/science/article/pii/S2214629618306297)
 * **Li, D.**, Menassa, C. C., and Kamat, V. R. (2018). “Non-intrusive interpretation of human thermal comfort through analysis of facial infrared thermography.” *Energy and Buildings*, 176, 246-261. [Download](https://www.sciencedirect.com/science/article/pii/S0378778818309629)
 * **Li, D.**, Menassa, C. C., and Kamat, V. R. (2017). “Personalized human comfort in indoor building environments under diverse conditioning modes.” *Building and Environment*, 126, 304-317. [Download](https://www.sciencedirect.com/science/article/pii/S0360132317304535)
 * **Li, D.**, Menassa, C. C., and Karatas, A. (2017). “Energy use behaviors in buildings: Towards an integrated conceptual framework.” *Energy Research & Social Science*, 23, 97-112. [Download](https://www.sciencedirect.com/science/article/pii/S2214629616302869)
