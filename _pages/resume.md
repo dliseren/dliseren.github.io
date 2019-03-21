@@ -17,8 +17,23 @@ Education
 * M.S.E, Construction Engineering & Management, 2014 - 2015, University of Michigan, Ann Arbor, MI
 * B.S., Civil Engineering, 2010 - 2014, Huazhong University of Science and Technology, China
   
-Employment Experience
+Teaching Experience
 ------
+
+* Graduate Student Instructor – to Professor Carol C. Menassa in: CEE 431 Construction Contracting (21 students), September 2018 – December 2018.
+  * Leading lab sessions and assisting professor with the preparation of course materials.
+  * Topics covered: project organization, cost estimation, progress monitoring, arbitration, project risk prevention.
+
+* Graduate Student Instructor – to Professor Carol C. Menassa in: CEE 265 Sustainable Engineering Principles (120 students), January 2018 – April 2018.
+  * Leading practice classes, providing homework help and office hours, assisting professor with the preparation of exam papers and homework assignments.
+  * Topics covered: life cycle assessment, air and water pollution models, resource consumption models, sustainability economics.
+  
+* Graduate Student Instructor – to Professor Carol C. Menassa in: CEE 265 Sustainable Engineering Principles (120 students), January 2017 – April 2017.
+  * Student feedback: received 100% satisfaction from feedback of nine surveyed students.
+
+* Teaching Assistant – to Professor Vineet R. Kamat in: CEE 531 Construction Cost Engineering (18 students), September 2015 – December 2015.
+
+
 <!-- * Graduate Student Research Assistant, Jan.2015 - Present
   * Laboratory for Intelligent Systems and Technologies, University of Michigan, Ann Arbor, MI
   * Supervisor: Prof. Jerome P. Lynch
@@ -62,7 +77,7 @@ Selected Coursework
 
 Honors & Awards
 ------
-At the University of Michigan:
+**At the University of Michigan**:
 * Rackham Predoctoral Fellowship, 2019
 * Science Communication Award for Advanced Research Competition, 2018
 * Rackham Conference Travel Grant, 2017
@@ -70,12 +85,10 @@ At the University of Michigan:
 * Tishman Master’s Fellowship, 2015
 * Travel Grant for the NetPoint and GPM Conference, 2015
 
-At the Huazhong University of Science and Technology, China:
+**At the Huazhong University of Science and Technology, China**:
 * Outstanding Undergraduate Student, 2014.
 * Honor and Scholarship for Excellent Student Leader, 2013.
 * Outstanding Individual Scholarship, 2012, 2013.
-
-
 
 
 
