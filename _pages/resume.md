@@ -62,14 +62,21 @@ Selected Coursework
 
 Honors & Awards
 ------
-<!-- * Rackham Conference Travel Grant, University of Michigan 2017
-* William Colon Lemon Scholarship, University of Michigan 2016
-* Graduate Student Support Fellowship, University of Michigan 2016
-* Outstanding Graduate Honor, Tongji University 2014
-* Outstanding Student in the Department of Civil Engineering, Tongji University (10/2000) 2013
-* CanforWooden Structure Scholarship (Sponsored by Canfor Corporation), Tongji University 2013
-* First Prize in the 2013 Shanghai College Student Computer Application Competition 2013
-* Intertek Scholarship (2/520, Sponsored by Intertek Group PLC), Tongji University 2012 -->
+At the University of Michigan:
+* Rackham Predoctoral Fellowship, 2019
+* Science Communication Award for Advanced Research Competition, 2018
+* Rackham Conference Travel Grant, 2017
+* John L. Tishman Fellowship and Rackham Block Grant, 2016
+* Tishman Master’s Fellowship, 2015
+* Travel Grant for the NetPoint and GPM Conference, 2015
+
+At the Huazhong University of Science and Technology, China:
+* Outstanding Undergraduate Student, 2014.
+* Honor and Scholarship for Excellent Student Leader, 2013.
+* Outstanding Individual Scholarship, 2012, 2013.
+
+
+
 
 
 Service & Leadership
