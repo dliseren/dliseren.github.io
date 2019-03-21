@@ -10,9 +10,15 @@ redirect_from:
 
 ## About Me
 
-I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa. 
+I am currently a Ph.D. candidate in the Department of Civil and Environmental Engineering at the University of Michigan; meanwhile, I am also pursuing a M.S.E degree in Robotics. I am a graduate student research assistant in the Sustainable and Intelligent Civil Infrastructure Systems Laboratory [(SICIS Lab)](https://sites.google.com/a/umich.edu/sicislab/) advised by Prof. Carol Menassa.
 
-My research focuses on understanding and modeling occupants’ energy use behaviors in buildings, and predicting thermal comfort using heterogeneous data sources and different modeling techniques. To this end, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation. 
+My research critically explores the interconnections between sustainable design and operation of buildings and the health and wellness impacts on their occupants. To harness the built environment as a medium to support sustainability and human health, well-being, productivity, and engagement, my research specifically focuses on two human-building interaction research thrusts: 
+
+1) Healthy Built Environments. In this thrust, I am interested in assessing the impacts of building systems and environments on human well-being, with an emphasis on thermal comfort.
+
+2) Occupant Energy Use Behaviors and Conservation. My second research thrust aims to understand the significant influence of human cognitive and behavioral processes and the resulting behaviors on building energy consumption.
+
+To achieve my research objectives, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation. 
 
 
 <!-- Working in the Materials Research Department, my responsibility  is to fulfill the requirement of materials informatics research in the group. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
