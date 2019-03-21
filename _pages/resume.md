@@ -12,16 +12,11 @@ redirect_from:
 Education
 ------
 
-* Ph.D. Candidate, Civil Engineering, 2015 - Present
-  * University of Michigan, Ann Arbor, MI
-* M.S.E, Robotics, 2017 - Present
-  * University of Michigan, Ann Arbor, MI
-* M.S.E, Construction Engineering & Management, 2014 - 2015
-  * University of Michigan, Ann Arbor, MI
-* B.S., Civil Engineering, 2010 - 2014
-  * Huazhong University of Science and Technology, China
+* Ph.D. Candidate, Civil Engineering, 2016 - Present, University of Michigan, Ann Arbor, MI
+* M.S.E, Robotics, 2017 - Present, University of Michigan, Ann Arbor, MI
+* M.S.E, Construction Engineering & Management, 2014 - 2015, University of Michigan, Ann Arbor, MI
+* B.S., Civil Engineering, 2010 - 2014, Huazhong University of Science and Technology, China
   
-
 Employment Experience
 ------
 <!-- * Graduate Student Research Assistant, Jan.2015 - Present
