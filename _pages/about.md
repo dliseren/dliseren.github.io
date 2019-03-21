@@ -14,9 +14,9 @@ I am currently a Ph.D. candidate in the Department of Civil and Environmental En
 
 My research critically explores the interconnections between sustainable design and operation of buildings and the health and wellness impacts on their occupants. To harness the built environment as a medium to support sustainability and human health, well-being, productivity, and engagement, my research specifically focuses on two human-building interaction research thrusts: 
 
-1) *Healthy Built Environments*. In this thrust, I am interested in assessing the impacts of building systems and environments on human well-being, with an emphasis on thermal comfort. My work has been publised in [The Conversation](https://theconversation.com/offices-are-too-hot-or-too-cold-is-there-a-better-way-to-control-room-temperature-108982)
+1) **Healthy Built Environments**. In this thrust, I am interested in assessing the impacts of building systems and environments on human well-being, with an emphasis on thermal comfort. My work has been publised in [The Conversation](https://theconversation.com/offices-are-too-hot-or-too-cold-is-there-a-better-way-to-control-room-temperature-108982).
 
-2) Occupant Energy Use Behaviors and Conservation. My second research thrust aims to understand the significant influence of human cognitive and behavioral processes and the resulting behaviors on building energy consumption.
+2) **Occupant Energy Use Behaviors and Conservation**. My second research thrust aims to understand the significant influence of human cognitive and behavioral processes and the resulting behaviors on building energy consumption.
 
 To achieve my research objectives, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation. 
 
