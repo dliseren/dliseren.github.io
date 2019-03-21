@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: ""
+title: "About Me"
 excerpt: ""
 author_profile: true
 redirect_from: 
@@ -18,7 +18,7 @@ My research critically explores the interconnections between sustainable design 
 
 2) **Occupant Energy Use Behaviors and Conservation**. My second research thrust aims to understand the significant influence of human cognitive and behavioral processes and the resulting behaviors on building energy consumption.
 
-To achieve my research objectives, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and evaluation. 
+To achieve my research objectives, I am interested in interdisciplinary research approaches that integrate traditional survey and statistical analysis method, social psychology theories, machine learning, and computer vision for data collection and analysis. 
 
 
 <!-- Working in the Materials Research Department, my responsibility  is to fulfill the requirement of materials informatics research in the group. Machine learning techniques are applied to analyze problems in materials science. Typical duties include: text mining data from literatures and patents; clarify the connection between different objects; statistically analyze the property-structure-process relation, etc.  -->
