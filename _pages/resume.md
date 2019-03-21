@@ -17,7 +17,7 @@ Education
 * M.S., Construction Engineering & Management, 2014 - 2015, University of Michigan, Ann Arbor, MI.
 * B.S., Civil Engineering, 2010 - 2014, Huazhong University of Science and Technology, China.
 
-Honors & Awards
+Honors and Awards
 ------
 **At the University of Michigan**:
 * Rackham Predoctoral Fellowship, 2019.
