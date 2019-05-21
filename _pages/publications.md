@@ -25,5 +25,5 @@ Journal Publications
 Conference Publications
 ------
 * **Li, D.**, Menassa, C. C., and Kamat, V. R., (2019). “RGB-D and thermal sensor fusion for human thermal comfort assessment.” (Paper accepted by *2019 HK CIB World Building Congress*)
-* **Li, D.**, Menassa, C. C., and Kamat, V. R (2019). “Feasibility of low-cost infrared thermal imaging to assess occupants’ thermal comfort.” (Paper accepted by *2019 ASCE International Conference on Computing in Civil Engineering*)
-* **Li, D.**, Menassa, C. C., and Kamat, V. R (2017). “A personalized HVAC control smartphone application framework for improved human health and well-being.” In *Computing in Civil Engineering 2017* (pp. 82-90). [<img src="../images/pdf_icon.png" width="30" height="30">](https://ascelibrary.org/doi/abs/10.1061/9780784480830.011)
+* **Li, D.**, Menassa, C. C., and Kamat, V. R., (2019). “Feasibility of low-cost infrared thermal imaging to assess occupants’ thermal comfort.” (Paper accepted by *2019 ASCE International Conference on Computing in Civil Engineering*)
+* **Li, D.**, Menassa, C. C., and Kamat, V. R., (2017). “A personalized HVAC control smartphone application framework for improved human health and well-being.” In *Computing in Civil Engineering 2017* (pp. 82-90). [<img src="../images/pdf_icon.png" width="30" height="30">](https://ascelibrary.org/doi/abs/10.1061/9780784480830.011)
