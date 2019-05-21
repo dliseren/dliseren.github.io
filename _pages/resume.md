@@ -13,7 +13,7 @@ Education
 ------
 
 * Ph.D. Candidate, Civil Engineering, 2016 - Present, University of Michigan, Ann Arbor, MI.
-* M.S., Robotics, 2017 - Present, University of Michigan, Ann Arbor, MI.
+* M.S., Robotics, 2017 - 2019, University of Michigan, Ann Arbor, MI.
 * M.S., Construction Engineering & Management, 2014 - 2015, University of Michigan, Ann Arbor, MI.
 * B.S., Civil Engineering, 2010 - 2014, Huazhong University of Science and Technology, China.
 
